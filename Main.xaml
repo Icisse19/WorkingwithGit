@@ -98,6 +98,6 @@
         </ActivityAction>
       </ui:OpenBrowser.Body>
     </ui:OpenBrowser>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="467,108" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hello Viewer&quot;]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="467,108" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hello Viewers&quot;]" />
   </Sequence>
 </Activity>
